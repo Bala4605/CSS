@@ -1,0 +1,11 @@
+ol{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+}
+li{
+    width:20%;
+    list-style-type: none;
+    margin: 20px;
+}

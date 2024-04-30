@@ -1,0 +1,41 @@
+.nav{
+    background-color: black;
+    display: flex;
+    margin: 20px 10px;
+    padding: 10px;
+    font-family: "Open Sans", Helvetica, Arial, sans-serif;
+    box-sizing: border-box;
+}
+img{
+    width:140px;
+    margin: 5px;
+    height:26px;
+}
+ol{
+    display: flex;
+    margin: 0px 0px 0px auto;
+    text-transform: uppercase;
+    margin-top: 5px;
+}
+li{
+    list-style-type: none;
+    color: white;
+    /* background-color: aqua; */
+    font-size: 14px;
+    padding-top: 5px;
+    margin: 5px 15px;
+    
+    
+}
+button{
+    background-color: blue;
+    text-transform: uppercase;
+    border:none;
+    margin-top: 10px;
+    margin-right: 40px;
+    margin-left: 30px;
+
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}

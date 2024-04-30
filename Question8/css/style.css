@@ -1,0 +1,22 @@
+nav{
+    display: flex;
+
+}
+li{
+    list-style-type: none;   
+}
+ol{
+  display: flex;
+}
+.text-start{
+    padding-left: 0rem;
+}
+.text-start li{
+    margin: 0px 2px;
+    color: gold;
+}
+img{
+    width:100%;
+    border-radius: 0% 20% 0% 20%;
+}
+
